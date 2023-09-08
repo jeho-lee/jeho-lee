@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on on-device machine learning and 3D computer vision.
-- 👯 I’m actively seeking an internship position (international or domestic) where I can apply and expand upon my skills in relevant fields while contributing to a dynamic and innovative team.
+- 🔭 I’m currently working on **on-device machine learning** and **3D computer vision**.
+- 👯 I’m actively seeking an _internship position_ (international or domestic) where I can apply and expand upon my skills in relevant fields while contributing to a dynamic and innovative team.
 
 <!--
 **jeho-lee/jeho-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
