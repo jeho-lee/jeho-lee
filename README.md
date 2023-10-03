@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **on-device AI (Efficient AI)** and **3D computer vision**.
+- 🔭 I’m currently working on **on-device AI (efficient AI) systems** and **3D computer vision**.
 - 👯 I’m actively seeking an _internship position_ (international or domestic) where I can apply and expand upon my skills in relevant fields while contributing to a dynamic and innovative team.
 
 <!--
