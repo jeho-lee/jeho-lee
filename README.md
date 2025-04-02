@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **on-device AI (efficient AI) systems**.
+- 🔭 I’m currently working on **on-device AI** and **Mobile and Edge Computing**.
 
 <!--
 **jeho-lee/jeho-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
